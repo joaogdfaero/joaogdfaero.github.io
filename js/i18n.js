@@ -40,7 +40,7 @@ window.I18N = {
     "utest.quote":
       "“Acabei de ser indicado ao uTest Academy All-Stars e Tester of the Week! Muito obrigado à uTest por esse reconhecimento incrível. Que seja só o começo de uma jornada empolgante!”",
     "utest.gold": "Nível <strong>Gold</strong> na plataforma uTest",
-    "utest.goldPeriod": "2024 – 2025",
+    "utest.goldPeriod": "2024",
     "utest.date": "Indicação de 16 de setembro de 2024",
 
     "philo.kicker": "Minha filosofia",
@@ -172,7 +172,7 @@ window.I18N = {
     "utest.quote":
       "“I've just been nominated for the uTest Academy All-Stars and Tester of the Week! Huge thanks to uTest for this incredible recognition. Let this be just the start of an exciting journey!”",
     "utest.gold": "<strong>Gold</strong> tier on the uTest platform",
-    "utest.goldPeriod": "2024 – 2025",
+    "utest.goldPeriod": "2024",
     "utest.date": "Nominated on September 16th, 2024",
 
     "philo.kicker": "My philosophy",
