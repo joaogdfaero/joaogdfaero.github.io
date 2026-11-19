@@ -89,7 +89,7 @@ window.I18N = {
     "exp.title": "Experiência",
     "exp.sub": "De desenvolvedor a QA sênior e tech lead — sempre perto do código.",
     "exp.present": "Atual",
-    "exp.1.role": "Senior QA Engineer · cliente Bradesco · modernização de sistemas legados",
+    "exp.1.role": "Senior QA Engineer · cliente Bradesco",
     "exp.1.period": "jan 2026 – atual",
     "exp.1.text":
       "IA aplicada a testes com Playwright, Agent Skills e MCP. Garantia da modernização segura de sistemas legados, liderança dos QAs do projeto, regressão manual de 3 dias reduzida para 40 minutos com automação, testes de performance (JMeter + Elastic), APIs, SQL e CI/CD com GitHub Actions.",
@@ -221,7 +221,7 @@ window.I18N = {
     "exp.title": "Experience",
     "exp.sub": "From developer to senior QA and tech lead — always close to the code.",
     "exp.present": "Current",
-    "exp.1.role": "Senior QA Engineer · client Bradesco · legacy system modernization",
+    "exp.1.role": "Senior QA Engineer · client Bradesco",
     "exp.1.period": "Jan 2026 – present",
     "exp.1.text":
       "AI applied to testing with Playwright, Agent Skills and MCP. Safeguarding the modernization of legacy systems, leading the project's QAs, cutting a 3-day manual regression to 40 minutes with automation, performance testing (JMeter + Elastic), APIs, SQL and CI/CD with GitHub Actions.",
